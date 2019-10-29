@@ -6,24 +6,33 @@ This project aims to build an individial life resume, users first need to enter 
 
 Then we will:
 
-    ·According to the current date，calculate the age in precise days.
+  ·According to the current date，calculate the age in precise days.
 
-    ·Point out the expectancy of human life.
+  ·Point out the expectancy of human life.
 
-    ·Calculate the percentage of the life time that has been used.
+  ·Calculate the percentage of the life time that has been used.
 
-    ·Divide users into different groups based on age, then for young people, young people, middle-aged people, and the elderly, giving some usful suggestions for life.
+  ·Divide users into different groups based on age, then for young people, young people, middle-aged people, 
+   and the elderly, giving some usful suggestions for life.
 
 Next we need users to think their plan of this year：
 
-    ·According to the current date，Point out how many days are left this year.
+  ·According to the current date，Point out how many days are left this year.
 
-    ·Suggest the user to formulate this year's plan.
+  ·Suggest the user to formulate this year's plan.
 
 And their plans for the next few years.
 
 Finally, output the individial life resume and urge users to cherish the current time and complete their plans.
 
+# FUTURE WORKS:
+
+  ·Design our UI interface
+  
+  ·Develop Android and IOS mobile phone apps
+  
+  ·Analyze users with data science
+  
 
 
 
