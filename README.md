@@ -1,4 +1,4 @@
-# EE551project
+# Life Clock
 
 According to the Wikipedia, today, the average life expectancy of humans has reached 79 years old. That means we have a lot of time to find the meaning of life. However, are you really taking advantage of the current time or just wasting life? How much time do you still have in your life? That's why I want to creat this project, using precise numbers to remind people of the truth of life.
 
@@ -32,6 +32,17 @@ Finally, output the individial life resume and urge users to cherish the current
   ·Develop Android and IOS mobile phone apps
   
   ·Analyze users with data science
+  
+# License:
+
+This project is licensed under the MIT License - see the LICENSE file for details.
+
+# Authors：
+
+Longtai Li
+ID：10452654
+
+For Class EE551-2019-fall
   
 
 
